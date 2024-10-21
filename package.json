@@ -1,0 +1,11 @@
+{
+  "name": "semaphoreproof",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@aiken-lang/merkle-patricia-forestry": "^1.1.0",
+    "blake2b": "^2.1.4"
+  }
+}
